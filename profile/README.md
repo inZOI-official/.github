@@ -10,6 +10,8 @@ Create your unique story by controlling and observing the lives of 'Zois'. Custo
 **inZOI** is a life simulation game where players step into the role of creators, shaping the world as they envision and witnessing the various stories that unfold.  
 Through this immersive experience, we aim to inspire players to appreciate life as the profound gift it is—a journey that is filled with meaning at every turn.
 
+![image](https://github.com/user-attachments/assets/41601020-b6ce-4df8-933d-65d12e938d1f)
+
 ---
 
 ## Step into diverse lives, brought to life with realistic graphics!
